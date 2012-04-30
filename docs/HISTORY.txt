@@ -1,7 +1,11 @@
 Changelog
 =========
 
-1.0dev (unreleased)
--------------------
+1.0.0 Unreleased
+----------------
+
+
+1.0-a1 2012-04-30
+-----------------
 
 - Initial release
